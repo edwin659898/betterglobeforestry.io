@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this template! For More Information
 
-Template Name: Eterna
-Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: BGF
+Template URL: edwinkiuma@gmail.com
+Author: Edwin Kiuma
+License: 
